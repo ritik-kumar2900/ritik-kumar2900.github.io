@@ -1,0 +1,26 @@
+.img-sport{
+    height: 250px;
+    margin: 0px auto;
+    transition: 0.7s ease-out;
+}
+.img-sport:hover{
+    height: 300px;
+}
+.p-bold{
+    font-weight: 900;
+}
+.foot{
+    background: lightgrey;
+}
+.red{
+    color: red;
+}
+.navbar-style {
+    position: static;
+}
+.green{
+    color: green;
+}
+.signup-image{
+    height: 400px;
+}
